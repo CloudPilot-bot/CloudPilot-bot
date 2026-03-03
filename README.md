@@ -8,9 +8,9 @@
 
 ## 🔥 About Me
 - 🛠️ I specialize in **AWS, Azure, GCP, Kubernetes, Docker, Terraform** and more
-🏏 My hobbies include playing cricket, watching mysterious movies & exploring new places
-📈 Constantly learning because "Never stop learning because life never stops teaching"
-😌 Currently I am focused to "Learn new technologies and improving my skill set"
+- 🏏 My hobbies include playing cricket, watching mysterious movies & exploring new places
+- 📈 Constantly learning because "Never stop learning because life never stops teaching"
+- 😌 Currently I am focused to "Learn new technologies and improving my skill set"
 ---
 
 ## ⚡ Tech Stack
