@@ -6,6 +6,12 @@
 
 ---
 
+## 🔥 About Me
+- 🛠️ I specialize in **AWS, Azure, GCP, Kubernetes, Docker, Terraform** and more
+- 📚 Passionate about helping you **build real-world cloud projects**
+- ⚡ Always learning, always building!
+---
+
 ## ⚡ Tech Stack
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,githubactions,ansible" />
 
